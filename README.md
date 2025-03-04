@@ -1,4 +1,4 @@
-# all-local-rag
+# local llm survey
 
 ## LLM
 apiとして叩くなら以下で十分そう. 
