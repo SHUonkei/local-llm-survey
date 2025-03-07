@@ -1,5 +1,5 @@
 # local llm survey
-## localで動くllmの動かし方を追加していきます。
+localで動くllmの動かし方を追加していきます。
 
 ## LLM
 apiとして叩くなら以下で十分そう. 
