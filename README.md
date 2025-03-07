@@ -1,4 +1,5 @@
 # local llm survey
+## localで動くllmの動かし方を追加していきます。
 
 ## LLM
 apiとして叩くなら以下で十分そう. 
@@ -28,7 +29,3 @@ pip install -r requirements.txt
 ```console
 python main.py [web page url]
 ```
-
-## vectordb
-
-##  
